@@ -1,0 +1,14 @@
+
+body {
+  background-color: #00BFFF;
+}
+
+nav ul li a.selected {
+  color: #000;
+}
+
+
+
+nav ul li {
+  display: inline-block;
+}
